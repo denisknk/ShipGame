@@ -1,6 +1,6 @@
 ## Simple ship game
 
-- [x] TypeScript compilation
+- [x] TypeScript
 - [x] ООП
 - [x] PIXI.js
 - [x] TweenJS
